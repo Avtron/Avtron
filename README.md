@@ -12,5 +12,3 @@ if you are so bored as to look at my profile, consider donating to a charity, li
 [glaad, a us based charity focusing on good media representation of gsrm people (us$)](https://donate.glaad.org/site/Donation2?1400.donation=form1&df_id=1400&mfc_pref=T)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avtron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Avtron's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=avtron)](https://github.com/anuraghazra/github-readme-stats)
